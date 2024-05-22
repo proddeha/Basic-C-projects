@@ -6,5 +6,5 @@ This repository contains two of my early projects in C programming. These projec
 
 ### Projects Included
 
-1. [Currency Converter](#1-Currency_Converter)
+1. [Currency Converter](Currency_Converter)
 2. [Gasoline Consumption Cost Calculator](#2-gasoline-consumption-cost-calculator)

@@ -17,5 +17,5 @@ This project calculates the cost of gasoline consumption for a given trip. It al
    Use a C compiler to compile the program. For example, using `gcc`:
 
    ```bash
-   gcc -o gasoline_calculator gasoline_calculator.c
+   gcc -o Fuel_Calculator fuel_calculator.c
 

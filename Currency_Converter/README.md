@@ -22,4 +22,4 @@ This is one of my very first projects, created as an exercise in programming wit
    Use a C compiler to compile the program. For example, using `gcc`:
 
    ```bash
-   gcc -o currency_converter currency_converter.c
+   gcc -o Currency_Converter currency_converter.c
